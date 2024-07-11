@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category">
+    <sc_cat_item_category action="DELETE">
+        <sc_cat_item display_value="Marketing Request">d195234dc332021076d1b71d0501319d</sc_cat_item>
+        <sc_category display_value="Marketing Support">4a3eb7c9c3b2021076d1b71d050131d3</sc_category>
+        <sys_class_name>sc_cat_item_category</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-13 18:46:34</sys_created_on>
+        <sys_id>aa23c451c3f2021076d1b71d050131b7</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing Support.Marketing Request</sys_name>
+        <sys_package display_value="Marketing Campaign Management System" source="x_1326387_market_0">9c102385c332021076d1b71d0501315d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Campaign Management System">9c102385c332021076d1b71d0501315d</sys_scope>
+        <sys_update_name>sc_cat_item_category_aa23c451c3f2021076d1b71d050131b7</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-13 18:46:34</sys_updated_on>
+    </sc_cat_item_category>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="Marketing Campaign Management System">9c102385c332021076d1b71d0501315d</application>
+        <file_path/>
+        <instance_id>265a65231b114a1839a54089bd4bcb01</instance_id>
+        <instance_name>dev258030</instance_name>
+        <name>sc_cat_item_category_aa23c451c3f2021076d1b71d050131b7</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sc_cat_item_category"><sc_cat_item_category action="INSERT_OR_UPDATE"><sc_cat_item display_value="Marketing Request">d195234dc332021076d1b71d0501319d</sc_cat_item><sc_category display_value="Marketing Support">4a3eb7c9c3b2021076d1b71d050131d3</sc_category><sys_class_name>sc_cat_item_category</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2024-06-13 18:46:34</sys_created_on><sys_id>aa23c451c3f2021076d1b71d050131b7</sys_id><sys_mod_count>0</sys_mod_count><sys_name>Marketing Support.Marketing Request</sys_name><sys_package display_value="Marketing Campaign Management System" source="x_1326387_market_0">9c102385c332021076d1b71d0501315d</sys_package><sys_policy/><sys_scope display_value="Marketing Campaign Management System">9c102385c332021076d1b71d0501315d</sys_scope><sys_update_name>sc_cat_item_category_aa23c451c3f2021076d1b71d050131b7</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2024-06-13 18:46:34</sys_updated_on></sc_cat_item_category></record_update>]]></payload>
+        <payload_hash>-538207320</payload_hash>
+        <record_name>Marketing Support.Marketing Request</record_name>
+        <reverted_from/>
+        <source>dc102385c332021076d1b71d05013161</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-13 18:46:34</sys_created_on>
+        <sys_id>ae23c451c3f2021076d1b71d050131bb</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>19012ec4d140000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-13 18:46:34</sys_updated_on>
+        <type>Catalog Item Category</type>
+        <update_guid>ee23c45101f20210bbb595bd464293ba</update_guid>
+        <update_guid_history>ee23c45101f20210bbb595bd464293ba:-538207320</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="Marketing Support.Marketing Request">4ea34091c3f2021076d1b71d050131d7</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-13 18:48:44</sys_created_on>
+        <sys_db_object display_value="" name="sc_cat_item_category">sc_cat_item_category</sys_db_object>
+        <sys_id>00127700a0a04c20a036f003ad41bf49</sys_id>
+        <sys_metadata>aa23c451c3f2021076d1b71d050131b7</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Marketing Support.Marketing Request</sys_name>
+        <sys_package display_value="Marketing Campaign Management System" source="x_1326387_market_0">9c102385c332021076d1b71d0501315d</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Campaign Management System">9c102385c332021076d1b71d0501315d</sys_scope>
+        <sys_scope_delete display_value="">660b588828754efaaa07c79d5bf52aa4</sys_scope_delete>
+        <sys_update_name>sc_cat_item_category_aa23c451c3f2021076d1b71d050131b7</sys_update_name>
+        <sys_update_version display_value="sc_cat_item_category_aa23c451c3f2021076d1b71d050131b7">ae23c451c3f2021076d1b71d050131bb</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-13 18:48:44</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>

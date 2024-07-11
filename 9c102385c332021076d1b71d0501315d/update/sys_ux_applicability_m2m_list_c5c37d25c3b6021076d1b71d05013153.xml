@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_ux_applicability_m2m_list">
+    <sys_ux_applicability_m2m_list action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <applicability display_value="Audience for app marketing-campaign-management-system">70c33d25c3b6021076d1b71d050131a5</applicability>
+        <list display_value="All">0dc37d25c3b6021076d1b71d0501314c</list>
+        <order>100</order>
+        <sys_class_name>sys_ux_applicability_m2m_list</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-14 21:37:01</sys_created_on>
+        <sys_id>c5c37d25c3b6021076d1b71d05013153</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name/>
+        <sys_package display_value="Marketing Campaign Management System" source="x_1326387_market_0">9c102385c332021076d1b71d0501315d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Campaign Management System">9c102385c332021076d1b71d0501315d</sys_scope>
+        <sys_update_name>sys_ux_applicability_m2m_list_c5c37d25c3b6021076d1b71d05013153</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-14 21:37:01</sys_updated_on>
+    </sys_ux_applicability_m2m_list>
+</record_update>

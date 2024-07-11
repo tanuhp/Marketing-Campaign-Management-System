@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ux_page_property">
+    <sys_ux_page_property action="INSERT_OR_UPDATE">
+        <choices/>
+        <description/>
+        <name>globalSearchDataConfigId</name>
+        <page display_value="Marketing Campaign Management">67b3f9259bb602106ee9527ca0308989</page>
+        <required_translations>[]</required_translations>
+        <route/>
+        <suffix/>
+        <sys_class_name>sys_ux_page_property</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-14 21:36:57</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>global</sys_domain_path>
+        <sys_id>abb3f92588b602100912c96b92ebcc78</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>globalSearchDataConfigId</sys_name>
+        <sys_package display_value="Marketing Campaign Management System" source="x_1326387_market_0">9c102385c332021076d1b71d0501315d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Campaign Management System">9c102385c332021076d1b71d0501315d</sys_scope>
+        <sys_update_name>sys_ux_page_property_abb3f92588b602100912c96b92ebcc78</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-14 21:36:57</sys_updated_on>
+        <type>string</type>
+        <unique_name>x_1326387_market_0.67b3f9259bb602106ee9527ca0308989.root.globalSearchDataConfigId</unique_name>
+        <value>a3b3f92506b6021012ea4ef334a4b280</value>
+    </sys_ux_page_property>
+    <sys_translated_text action="delete_multiple" query="documentkey=abb3f92588b602100912c96b92ebcc78"/>
+</record_update>

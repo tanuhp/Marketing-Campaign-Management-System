@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element db_object_id="42a02f85c332021076d1b71d050131fd" extends="task" label="Marketing Requests" max_length="40" name="x_1326387_market_0_marketing_requests" text_index="true" type="collection">
+        <element label="Ad Type" max_length="40" name="ad_type" type="string"/>
+    </element>
+</database>

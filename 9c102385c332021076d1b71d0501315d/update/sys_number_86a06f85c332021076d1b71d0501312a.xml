@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_number">
+    <sys_number action="INSERT_OR_UPDATE">
+        <category display_value="" name="x_1326387_market_0_marketing_requests">x_1326387_market_0_marketing_requests</category>
+        <maximum_digits>7</maximum_digits>
+        <number>1000</number>
+        <prefix>MRKT</prefix>
+        <sys_class_name>sys_number</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-13 16:15:49</sys_created_on>
+        <sys_id>86a06f85c332021076d1b71d0501312a</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>MRKT</sys_name>
+        <sys_package display_value="Marketing Campaign Management System" source="x_1326387_market_0">9c102385c332021076d1b71d0501315d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Campaign Management System">9c102385c332021076d1b71d0501315d</sys_scope>
+        <sys_update_name>sys_number_86a06f85c332021076d1b71d0501312a</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-13 16:15:49</sys_updated_on>
+    </sys_number>
+</record_update>

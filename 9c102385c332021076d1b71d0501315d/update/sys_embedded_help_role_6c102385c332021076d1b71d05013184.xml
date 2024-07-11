@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_1326387_market_0.user" name="x_1326387_market_0.user">60102385c332021076d1b71d05013184</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2024-06-13 16:13:15</sys_created_on>
+        <sys_id>6c102385c332021076d1b71d05013184</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>60102385c332021076d1b71d05013184</sys_name>
+        <sys_package display_value="Marketing Campaign Management System" source="x_1326387_market_0">9c102385c332021076d1b71d0501315d</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Marketing Campaign Management System">9c102385c332021076d1b71d0501315d</sys_scope>
+        <sys_update_name>sys_embedded_help_role_6c102385c332021076d1b71d05013184</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2024-06-13 16:13:15</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
